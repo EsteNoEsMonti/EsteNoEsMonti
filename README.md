@@ -1,7 +1,7 @@
 ### Hello there 👋
 <!-- ![image](https://user-images.githubusercontent.com/43851394/217555754-db143dda-da01-4e4f-a074-5f469ce21f0d.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/43851394/236013233-d7fc7f60-1429-42b1-a37d-7700f98f370a.png) -->
-![monti](https://user-images.githubusercontent.com/43851394/236236150-a10dbd7a-64a1-4691-a75c-83c5f248ddf8.png)
+![image](https://user-images.githubusercontent.com/43851394/236236273-ad4c72e0-e92b-4eb6-befa-a429daa1e31c.png)
 
 <!--
 **EsteNoEsMonti/EsteNoEsMonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
